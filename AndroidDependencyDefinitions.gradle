@@ -80,6 +80,6 @@ ext.libraries = [
 ]
 
 ext.jars = [
+        all: fileTree(dir: 'libs', include: ['*.jar']),
 ]
-
 
