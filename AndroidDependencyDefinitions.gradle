@@ -1,4 +1,4 @@
-ext.versions = [
+ext.versions = [  
         guava        : '19.0',
         okhttp       : '3.7.0',
         gson         : '2.8.0',
